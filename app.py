@@ -1,3 +1,5 @@
+# programa de gerenciamento de restaurantes
+
 import os
 
 class Restaurante:
